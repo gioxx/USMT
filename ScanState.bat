@@ -3,6 +3,7 @@ if "%1"=="" goto error
 if not exist MigDomCustom7.xml goto error
 
 cls
+C:
 echo USMT ScanState per Windows 7
 echo GSolone 2013 (20130507-rev0)
 echo.
