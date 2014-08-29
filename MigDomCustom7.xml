@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <migration urlid="http://www.microsoft.com/migration/1.0/migxmlext/gfsolone-migdomCustom">
 
-    <!-- CUSTOM MIGRATION FILE for USMT 3+ (7 reccomended) with AppData Migration
+    <!-- CUSTOM MIGRATION FILE for USMT 3+ (reccomended for USMT 4 and Windows 7) with AppData Migration
 		 GSolone 02/2013 | V1.2 | 20130507-rev0
-		 gioxx.org // gfsolone.com // dev@gfsolone.com
+		 gioxx.org // giovanni.solone.it // dev@gfsolone.com
 		 This custom file doesn't sync SHARED MUSIC-VIDEOS-DOCUMENTS-PICTURES-FAVORITES
 		 This custom file also include: Google Drive Folder, Dropbox Folder (if respective folder are into user profile root folder)
 		 REMEMBER to include also MigApp.xml!
 		 
 		 Original discussion: http://social.technet.microsoft.com/Forums/uk/w7itpronetworking/thread/49927e78-74cf-43cb-ae0f-ec1886d8ec34
 	-->
-	<!--	Credits
+	<!--	Sources
 			http://social.technet.microsoft.com/Forums/eu/configmgrosd/thread/9c1054e4-8290-4625-89df-caf7c3b40350
 			http://www.windows-noob.com/forums/index.php?/topic/5965-usmt-40-custom-folders/
 			http://www.petervanderwoude.nl/post/some-basic-usmt-4-0-actions-explained/
